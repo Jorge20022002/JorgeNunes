@@ -1,3 +1,3 @@
-from funcoes import subtract
+from funcoes.subtract import subtract
 print(subtract(4,5))
 
